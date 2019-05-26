@@ -1,0 +1,18 @@
+
+I plan to use the Traveling Salesman Problem (TSP) as a lens to investigate other optimization methods.
+
+Outline:
+1. Set up the TSP
+2. exact solution
+3. computationally expensive
+    - computational expense grows like n! which is faster than exponential
+    - (basically) impossible to find exact solution for large n
+4. simulated annealing
+5. genetic algorithm
+6. ant colony optimization
+7. other applications
+    - TSP problem in physics
+    - examples of other uses of these optimization methods
+
+Discrete optimizations
+- scheduling jobs on a server/super-computer
